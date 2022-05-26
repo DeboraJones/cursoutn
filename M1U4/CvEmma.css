@@ -1,0 +1,31 @@
+p {
+    color: green;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+h3 {
+    color: blueviolet;
+    background-color: yellow;
+}
+
+.resaltados {
+    color: blue;
+    font-size: bold;
+    font-style: italic;
+}
+
+#azul {
+    width: 130px;
+    height: 100px;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+
+#rojo {
+    width: 130px;
+    height: 100px;
+    background-color: brown;
+    padding: 10px;
+}
