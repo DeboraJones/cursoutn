@@ -1,0 +1,52 @@
+@media screen and (min-width:320px) and (max-width:800px) {
+    body {
+        margin: 0px;
+        padding: 0;
+    }
+
+    #contenedor {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    h1 {
+        width: 100%;
+        text-align: start;
+    }
+
+    nav {
+        background-color: rgb(241, 184, 97);
+        width: 100%;
+    }
+
+    li {
+
+        margin: 10px 3px;
+    }
+
+    a {
+        color: #000;
+    }
+
+    section {
+        width: 100%;
+        margin: 0px;
+        padding: 10px 3px;
+        border: 1px solid black;
+    }
+
+    h2 {
+        margin-left: 10px;
+    }
+
+    p {
+        margin-left: 10px;
+    }
+
+    aside {
+        width: 100%;
+    }
+
+}
