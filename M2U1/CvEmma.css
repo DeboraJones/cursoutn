@@ -1,0 +1,39 @@
+p {
+    color: green;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+h3 {
+    color: blueviolet;
+    background: #a500ff;
+    background: linear-gradient(180deg, #a500ff 0%, #ffff00 40%, #00ff00 80%);
+    background: -webkit-linear-gradient(180deg, #a500ff 0%, #ffff00 40%, #00ff00 80%);
+    background: -moz-linear-gradient(180deg, #a500ff 0%, #ffff00 40%, #00ff00 80%);
+}
+
+.resaltados {
+    color: blue;
+    font-size: bold;
+    font-style: italic;
+}
+
+#azul {
+    width: 130px;
+    height: 100px;
+    background-color: aquamarine;
+    padding: 8px;
+    border-radius: 10px;
+    box-shadow: 8px 10px 15px black;
+}
+
+
+#rojo {
+    width: 130px;
+    height: 100px;
+    background-color: brown;
+    padding: 8px;
+    border-radius: 10px;
+    box-shadow: 8px black;
+    box-shadow: 8px 10px 15px black;
+}
